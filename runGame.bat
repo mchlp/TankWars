@@ -1,4 +1,7 @@
 @echo off
+
 cd files
-py multiplayer_dist.exe
+
+py multiplayer_dist.py
+
 pause
