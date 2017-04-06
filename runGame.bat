@@ -2,6 +2,6 @@
 
 cd files
 
-py multiplayer_dist.py
+python multiplayer_dist.py
 
 pause
