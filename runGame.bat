@@ -3,5 +3,3 @@
 cd files
 
 python multiplayer_dist.py
-
-pause
