@@ -31,6 +31,3 @@ About the Game:
 	- Screen modes can be switched by closing the game and reopening it
 
 - If you do not understand any part of the game, a blue help button is included in the majority of the screens where confusing content may be displayed. Mousing over the button will open up the help content.
-
-For Verification Code:
-- Search for "#security" in the "multiplayer_dist.py" file in the "files" folder
