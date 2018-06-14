@@ -27,7 +27,7 @@ About the Game:
 	- Pygame will try to detect the resolution of your screen and will display some images and text according to the resolution it 	displayed
 	- If the displayed content appears distorted in any way, press "NO" (pygame detected the resolution wrong and the game 	graphics will not appear properly if the game ran in full screen, the game will now run in a window. Pressing the close button
 	at any time will close the game)
-	- If the displayed content does NOT appear distorted, then full screen should work! The game will run in full screen mode, 		which can be exited by pressing the quit or main menu button in the pause menu when the game begins
+	- If the displayed content does NOT appear distorted, then full screen should work! The game will run in full screen mode, which can be exited by pressing the quit or main menu button in the pause menu when the game begins
 	- Screen modes can be switched by closing the game and reopening it
 
 - If you do not understand any part of the game, a blue help button is included in the majority of the screens where confusing content may be displayed. Mousing over the button will open up the help content.
